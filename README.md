@@ -4,7 +4,7 @@
 
 - [Resources](#resources)
     - [Official Resources](#official-resources)
-    - [External Resources](#external-resources)
+    - [External Resources](#external-resourcess
     - [Community](#community)
     - [Tutorials](#tutorials)
 - [Tools](#tools)
